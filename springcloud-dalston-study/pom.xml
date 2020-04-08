@@ -23,6 +23,7 @@
         <module>config-client</module>
         <module>eureka-consumer-fegin-hystrix</module>
         <module>hystrix-dashboard</module>
+        <module>api-gateway</module>
     </modules>
 
 
