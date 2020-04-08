@@ -1,9 +1,2 @@
 server:
   port: 9005
-spring:
-  application:
-    name: trace-b
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:9090/eureka

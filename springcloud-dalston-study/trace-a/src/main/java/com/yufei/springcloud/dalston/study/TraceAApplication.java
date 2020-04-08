@@ -17,6 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootApplication
 public class TraceAApplication {
 
+
     @Autowired
     private TraceClient traceClient;
 
