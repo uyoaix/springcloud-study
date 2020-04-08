@@ -1,0 +1,13 @@
+
+server:
+  port: 9080
+spring:
+  application:
+    name: eureka-consumer-fegin
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:9090/eureka/
+feign:
+  hystrix:
+    enabled: true
