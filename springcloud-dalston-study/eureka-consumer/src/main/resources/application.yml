@@ -1,0 +1,10 @@
+
+server:
+  port: 9030
+spring:
+  application:
+    name: eureka-consumer
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:9090/eureka/
