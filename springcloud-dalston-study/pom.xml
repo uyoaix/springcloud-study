@@ -24,6 +24,8 @@
         <module>eureka-consumer-fegin-hystrix</module>
         <module>hystrix-dashboard</module>
         <module>api-gateway</module>
+        <module>trace-a</module>
+        <module>trace-b</module>
     </modules>
 
 
